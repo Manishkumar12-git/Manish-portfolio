@@ -4,7 +4,7 @@ A clean, responsive, and modern personal portfolio website showcasing my resume,
 This site reflects my passion for web development, design precision, and building practical, real‑world projects.
 
 ## 🚀 Live Demo
-🔗 **Portfolio Link:** https://manishkumar12-git.github.io/manish-portfolio/
+🔗 **Portfolio Link:**  https://manishkumar12-git.github.io/Manish-portfolio/
 
 ## 🛠️ Tech Stack
 HTML • CSS • GitHub Pages • VS Code
